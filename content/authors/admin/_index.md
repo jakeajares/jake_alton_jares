@@ -45,5 +45,5 @@ title: Jake Alton Jares
 
 I'm a PhD candidate in political economics at the Stanford Graduate School of Business. I am also a Doll Graduate Fellow at the Stanford Institute for Economic Policy Research, and a Dee Graduate Fellow at the Bill Lane Center for the American West.
 
-I'm interested in the roles that ideology and economic interest play in determining voters’ political preferences, and how those preferences in turn drive political behavior and public policy. In my current research agenda, I combine survey experiments, large-scale administrative data, and causal inference techniques to examine the political determinants and consequences of modern US farm policy. My first study in this line of work was published in 2022 in the American Political Science Review.
+I'm interested in the roles that ideology and economic interest play in determining voters’ political preferences, and how those preferences in turn drive political behavior and public policy. In my current research agenda, I combine survey experiments, large-scale administrative data, and causal inference techniques to examine the political determinants and consequences of modern US farm policy. [**My first study in this line of work**](https://doi.org/10.1017/S0003055422000314) was published in 2022 in the *American Political Science Review*.
 {style="text-align: justify;"}
