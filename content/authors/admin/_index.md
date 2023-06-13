@@ -1,25 +1,22 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I am a PhD candidate in political economics at the Stanford Graduate School of Business.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Political Economics
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-first_name: Alice
+    year: Expected 2024
+  - course: BA in Economics and Mathematics
+    institution: University of Rochester
+    year: 2017
+email: "jjares@stanford.edu"
+first_name: Jake
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Political Economy
+- American Politics
+- Public Policy
+- Politics of Agriculture
+last_name: Jares
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
