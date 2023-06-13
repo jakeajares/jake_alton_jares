@@ -20,7 +20,7 @@ last_name: Jares
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Political Economics
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,24 +30,18 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/JakeJares
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.gsb.stanford.edu/programs/phd/academic-experience/students/jake-jares
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Jake Alton Jares
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a PhD candidate in political economics at the Stanford Graduate School of Business. I'm interested in the roles that ideology and economic interest play in determining voters’ political preferences, and how those preferences in turn drive political behavior and public policy. In my current research agenda, I combine survey experiments, large-scale administrative data, and causal inference techniques to examine the political determinants and consequences of modern US farm policy. My first study in this line of work was published in 2022 in the American Political Science Review.
 {style="text-align: justify;"}
