@@ -9,7 +9,8 @@ authors:
 - admin
 - Neil Malhotra
 date: "2022-04-19T00:00:00Z"
-doi: "S0003055422000314"
+# S0003055422000314
+doi: ""
 featured: false
 image:
   caption: ""
@@ -35,5 +36,28 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+links:
+- icon: file
+  icon_pack: fa
+  name: "Article PDF"
+  url: "uploads/Anzia, Jares, and Malhotra (2022 APSR) -- Main Text.pdf"
+- icon: file
+  icon_pack: fa
+  name: "Online Appendix"
+  url: "uploads/Anzia, Jares, and Malhotra (2022 APSR) -- Online Appendix.pdf"
+- icon: file
+  icon_pack: fa
+  name: "Further Supplemental Information"
+  url: "uploads/Anzia, Jares, and Malhotra (2022 APSR) -- Further Supplemental Information.pdf"
+- icon: database
+  icon_pack: fa
+  name: "Dataverse"
+  url: "https://doi.org/10.7910/DVN/HNH7BX"
+- icon: comments
+  icon_pack: fa
+  name: "Interview"
+  url: "https://www.gsb.stanford.edu/insights/federal-government-pays-farmers-doesnt-mean-farmers-are-fans"
+
+
 ---
 
