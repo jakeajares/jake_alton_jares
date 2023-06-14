@@ -8,9 +8,9 @@ authors:
 - Sarah F. Anzia
 - admin
 - Neil Malhotra
-date: ""
+date: "2022-04-19T00:00:00Z"
 doi: "S0003055422000314"
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""
@@ -20,7 +20,7 @@ publication: '*American Political Science Review*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: ""
+publishDate: "2022-04-19T00:00:00Z"
 #slides: example
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
