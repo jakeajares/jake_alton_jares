@@ -36,7 +36,8 @@ social:
   link: https://www.gsb.stanford.edu/programs/phd/academic-experience/students/jake-jares
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/jakejares.pdf
+  
 status:
   icon: ☕️
 superuser: true
