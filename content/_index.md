@@ -27,6 +27,7 @@ sections:
   design:
     columns: "2"
     view: citation
+  id: recent_pubs
 - block: contact
   content:
     autolink: true
