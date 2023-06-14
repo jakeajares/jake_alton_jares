@@ -9,27 +9,27 @@ authors:
 - admin
 - Neil Malhotra
 date: ""
-doi: "10.1017/S0003055422000314"
-featured: false
+doi: "S0003055422000314"
+featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ""
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*American Political Science Review*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
-title: An example journal article
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+publishDate: ""
+#slides: example
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+#  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#tags:
+#- Source Themes
+title: "Does Receiving Government Assistance Shape Political Attitudes? Evidence from Agricultural Producers"
+url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
@@ -37,12 +37,3 @@ url_source: ""
 url_video: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
