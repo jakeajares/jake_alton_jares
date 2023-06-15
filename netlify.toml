@@ -15,3 +15,15 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 [context.production]
 [context.production.environment]
 HUGO_ENV = 'production'
+
+[[redirects]]
+  from = "https://jakejares.netlify.app/*"
+  to = "https://jakejares.com/:splat"
+  status = 301
+  force = true
+ 
+[[redirects]]
+  from = "http://jakejares.netlify.app/*"
+  to = "https://jakejares.com/:splat"
+  status = 301
+  force = true
