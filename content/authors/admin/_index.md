@@ -19,7 +19,7 @@ interests:
 last_name: Jares
 organizations:
 - name: Stanford University
-  url: https://www.stanford.edu/
+  url: https://www.gsb.stanford.edu/programs/phd/academic-experience/students/jake-jares
 role: PhD Candidate in Political Economics
 social:
 - icon: envelope
