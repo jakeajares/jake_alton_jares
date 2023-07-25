@@ -23,7 +23,7 @@ sections:
       exclude_featured: true
       folders:
       - publication
-    title: Recent Publications
+    title: Research Highlights
   design:
     columns: "2"
     view: citation
