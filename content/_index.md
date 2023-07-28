@@ -27,7 +27,7 @@ sections:
   design:
     columns: "2"
     view: citation
-  id: recent_pubs
+  id: research_highlights
 - block: contact
   content:
     autolink: true
