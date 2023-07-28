@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: ""
+publication: "Working Paper (R&R at *American Political Science Review*)"
 publication_short: ""
 publication_types:
 - "3"
