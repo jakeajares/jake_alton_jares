@@ -34,7 +34,7 @@ links:
 - icon: file
   icon_pack: fa
   name: "Working Paper PDF"
-  url: "uploads/Jares (2023) -- Holding on to High Cotton.pdf"
+  url: "uploads/Jares_Working_Paper_Holding_on_to_High_Cotton.pdf"
 
 
 ---
