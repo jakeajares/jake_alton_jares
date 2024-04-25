@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: "Working Paper (Conditionally Accepted at *American Political Science Review*)"
+publication: "Working Paper (Accepted for Publication at *American Political Science Review*)"
 publication_short: ""
 publication_types:
 - "3"
