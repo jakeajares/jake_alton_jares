@@ -1,5 +1,5 @@
 ---
-bio: I am a PhD candidate in political economics at the Stanford Graduate School of Business.
+bio: I am a Research Fellow at the Hoover Institution at Stanford University.
 education:
   courses:
   - course: PhD in Political Economics
@@ -20,7 +20,7 @@ last_name: Jares
 organizations:
 - name: Stanford University
   url: https://www.gsb.stanford.edu/programs/phd/academic-experience/students/jake-jares
-role: PhD Candidate in Political Economics
+role: Research Fellow at the Hoover Institution
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,9 +31,6 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/JakeJares
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://www.gsb.stanford.edu/programs/phd/academic-experience/students/jake-jares
 - icon: cv
   icon_pack: ai
   link: uploads/jakejares.pdf
@@ -44,9 +41,9 @@ superuser: true
 title: Jake Alton Jares
 ---
 
-I'm a PhD candidate in political economics at the Stanford Graduate School of Business. I am also a Doll Graduate Fellow at the Stanford Institute for Economic Policy Research, and a Dee Graduate Fellow at the Bill Lane Center for the American West. I will be a Research Fellow at the Hoover Institution at Stanford University for AY 2024–2025 before joining Texas A&M University's Department of Political Science as an Assistant Professor in 2025.
+I'm a political scientist studying the American policymaking process. I'm currently a Research Fellow at the Hoover Institution at Stanford University, and I will join Texas A&M University's Department of Political Science as an Assistant Professor in Fall 2025. I graduated with my PhD in political economics from the Stanford Graduate School of Business in 2024.
 
-I'm interested in the roles that ideology and economic interest play in determining various actors' political preferences, and how those preferences in turn drive political behavior and public policy. In my current research agenda, I combine survey experiments, large-scale administrative data, and causal inference techniques to examine the political determinants and consequences of modern US farm policy. My first two studies in this line of work have been [**published**](https://doi.org/10.1017/S0003055422000314) or [**accepted**](https://jakejares.com/publication/jares_malhotra_working_paper_2023/) at the *American Political Science Review*.
+I'm interested in the roles that ideology and economic interest play in determining various actors' political preferences, and how those preferences in turn drive political behavior and public policy. In my current research agenda, I combine survey experiments, large-scale administrative data, and machine learning to examine the political determinants and consequences of modern US farm policy. My first two studies in this line of work have been [**published**](https://doi.org/10.1017/S0003055422000314) or [**forthcoming**](https://jakejares.com/publication/jares_malhotra_working_paper_2023/) at the *American Political Science Review*.
 {style="text-align: justify;"}
 
 <center> 
