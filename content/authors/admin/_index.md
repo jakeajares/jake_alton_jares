@@ -19,7 +19,6 @@ interests:
 last_name: Jares
 organizations:
 - name: Stanford University
-  url: https://www.gsb.stanford.edu/programs/phd/academic-experience/students/jake-jares
 role: Research Fellow at the Hoover Institution
 social:
 - icon: envelope
