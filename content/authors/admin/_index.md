@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Political Economics
     institution: Stanford University
-    year: Expected 2024
+    year: 2024
   - course: BA in Economics and Mathematics
     institution: University of Rochester
     year: 2017
@@ -43,9 +43,9 @@ title: Jake Alton Jares
 
 I'm a political scientist studying the American policymaking process. I'm currently a Research Fellow at the Hoover Institution at Stanford University, and I will join Texas A&M University's Department of Political Science as an Assistant Professor in Fall 2025. I graduated with my PhD in political economics from the Stanford Graduate School of Business in 2024.
 
-I'm interested in the roles that ideology and economic interest play in determining various actors' political preferences, and how those preferences in turn drive political behavior and public policy. In my current research agenda, I combine survey experiments, large-scale administrative data, and machine learning to examine the political determinants and consequences of modern US farm policy. My first two studies in this line of work have been [**published**](https://doi.org/10.1017/S0003055422000314) or [**forthcoming**](https://jakejares.com/publication/jares_malhotra_working_paper_2023/) at the *American Political Science Review*.
-{style="text-align: justify;"}
+I'm interested in the roles that ideology and economic interest play in determining various actors' political preferences, and how those preferences in turn drive political behavior and public policy. In my current research agenda, I combine survey experiments, large-scale administrative data, and machine learning to examine the political determinants and consequences of modern US farm policy. My first two studies in this line of work have been published at the *American Political Science Review* ([**2022**](https://doi.org/10.1017/S0003055422000314), [**2024**](https://doi.org/10.1017/S0003055424000571)).
 
+{style="text-align: justify;"}
 <center> 
 
 #### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "uploads/jakejares.pdf" "newtab" >}}Download my CV{{< /staticref >}}

@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: "Forthcoming at *American Political Science Review*"
+publication: "*American Political Science Review*"
 publication_short: ""
 publication_types:
 - "3"
@@ -34,7 +34,11 @@ url_video: ""
 links:
 - icon: file
   icon_pack: fa
-  name: "Working Paper PDF"
+  name: "Article PDF"
+  url: "uploads/jares_malhotra_apsr_2024.pdf"
+- icon: file
+  icon_pack: fa
+  name: "Manuscript with Both Appendices (OA, DM)"
   url: "uploads/Jares_and_Malhotra_Policy_Impact_and_Voter_Mobilization.pdf"
 
 
