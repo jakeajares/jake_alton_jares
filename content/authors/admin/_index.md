@@ -1,5 +1,5 @@
 ---
-bio: I am a Research Fellow at the Hoover Institution at Stanford University.
+bio: I am an Assistant Professor of Political Science at the Bush School of Government and Public Service at Texas A&M University.
 education:
   courses:
   - course: PhD in Political Economics
@@ -8,18 +8,19 @@ education:
   - course: BA in Economics and Mathematics
     institution: University of Rochester
     year: 2017
-email: "jjares@stanford.edu"
+email: "jjares@tamu.edu"
 first_name: Jake
 highlight_name: true
 interests:
 - Political Economy
 - American Politics
 - Public Policy
+- Quantitative Methods
 - Politics of Agriculture
 last_name: Jares
 organizations:
-- name: Stanford University
-role: Research Fellow at the Hoover Institution
+- name: Bush School of Government and Public Service, Texas A&M University
+role: Assistant Professor of Political Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,9 +41,9 @@ superuser: true
 title: Jake Alton Jares
 ---
 
-I'm a political scientist studying the American policymaking process. I'm currently a Research Fellow at the Hoover Institution at Stanford University, and I will join Texas A&M University's Department of Political Science as an Assistant Professor in Fall 2025. I graduated with my PhD in political economics from the Stanford Graduate School of Business in 2024.
+I'm a political scientist studying the American policymaking process. I'm an Assistant Professor of Political Science at Texas A&M University's Bush School of Government and Public Service. Before coming to College Station, I was a Research Fellow at the Hoover Institution at Stanford University; I earned my PhD in political economics from the Stanford Graduate School of Business in 2024.
 
-I'm interested in the roles that ideology and economic interest play in determining various actors' political preferences, and how those preferences in turn drive political behavior and public policy. In my current research agenda, I combine survey experiments, large-scale administrative data, and machine learning to examine the political determinants and consequences of modern US farm policy. My first two studies in this line of work have been published at the *American Political Science Review* ([**2022**](https://doi.org/10.1017/S0003055422000314), [**2024**](https://doi.org/10.1017/S0003055424000571)).
+I study the politics of American agriculture from two angles: as a source of substantive puzzles for our understanding of interest group power and policy feedback—why does a shrinking industry keep winning in Washington?—and as a data-rich window into the cross-pressures of material and symbolic interests in hard policy fights over international trade, immigration, and climate change. In this agenda, I combine survey experiments, large-scale administrative data, and machine learning. My first two studies in this line of work have been published at the *American Political Science Review* ([**2022**](https://doi.org/10.1017/S0003055422000314), [**2025**](https://doi.org/10.1017/S0003055424000571)).
 
 {style="text-align: justify;"}
 <center> 

@@ -31,7 +31,7 @@ sections:
 - block: contact
   content:
     autolink: true
-    email: jjares@stanford.edu
+    email: jjares@tamu.edu
     text: ""
     title: Contact
   design:

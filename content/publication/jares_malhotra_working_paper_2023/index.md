@@ -3,20 +3,19 @@ abstract: "How does the extent of policy benefits---not simply their presence---
 authors:
 - admin
 - Neil Malhotra
-date: "2023-06-07T00:00:00Z"
-# S0003055422000314
-doi: ""
+date: "2025-05-01T00:00:00Z"
+doi: "10.1017/S0003055424000571"
 featured: false
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 projects: []
-publication: "*American Political Science Review*"
+publication: "*American Political Science Review*, 119(2), 847-869"
 publication_short: ""
 publication_types:
-- "3"
-publishDate: "2023-06-07T00:00:00Z"
+- "2"
+publishDate: "2025-05-01T00:00:00Z"
 #slides: example
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

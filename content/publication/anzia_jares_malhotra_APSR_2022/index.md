@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*American Political Science Review*'
+publication: '*American Political Science Review*, 116(4), 1389-1406'
 publication_short: ""
 publication_types:
 - "2"
