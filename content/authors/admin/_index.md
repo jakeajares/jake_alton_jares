@@ -31,6 +31,10 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/JakeJares
+- icon: university
+  icon_pack: fas
+  label: My Texas A&M profile
+  link: https://bush.tamu.edu/jake-jares/
 - icon: cv
   icon_pack: ai
   link: uploads/jakejares.pdf
@@ -43,7 +47,7 @@ title: Jake Alton Jares
 
 I'm a political scientist studying the American policymaking process. I'm an Assistant Professor of Political Science at Texas A&M University's Bush School of Government and Public Service. Before coming to College Station, I was a Research Fellow at the Hoover Institution at Stanford University; I earned my PhD in political economics from the Stanford Graduate School of Business in 2024.
 
-I study the politics of American agriculture from two angles: as a source of substantive puzzles for our understanding of interest group power and policy feedback—why does a shrinking industry keep winning in Washington?—and as a data-rich window into the cross-pressures of material and symbolic interests in hard policy fights over international trade, immigration, and climate change. In this agenda, I combine survey experiments, large-scale administrative data, and machine learning. My first two studies in this line of work have been published at the *American Political Science Review* ([**2022**](https://doi.org/10.1017/S0003055422000314), [**2025**](https://doi.org/10.1017/S0003055424000571)).
+My primary research agenda combines large-scale administrative data and survey experiments to study the politics of American agriculture in two ways. First, I investigate substantive puzzles in farm policy that bear on our understanding of interest group power and policy feedback. Second, I treat the political economy of farming as a data-rich window into the cross-pressures of material and symbolic interests that characterize the defining policy problems of the twenty-first century: international trade, immigration, and climate change. The first two papers from this agenda appear in the *American Political Science Review* ([**2022**](https://doi.org/10.1017/S0003055422000314), [**2025**](https://doi.org/10.1017/S0003055424000571)).
 
 {style="text-align: justify;"}
 <center> 

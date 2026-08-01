@@ -34,7 +34,7 @@ links:
 - icon: file
   icon_pack: fa
   name: "Article PDF"
-  url: "uploads/jares_malhotra_apsr_2024.pdf"
+  url: "uploads/jares_malhotra_apsr_2025.pdf"
 - icon: file
   icon_pack: fa
   name: "Manuscript with Both Appendices (OA, DM)"
